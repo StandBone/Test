@@ -1,4 +1,6 @@
+#include <cstdio>
+
 int main() {
-    // TODO print "Hello World!"
+    printf("Hello World!\n");
     return 0;
 }
